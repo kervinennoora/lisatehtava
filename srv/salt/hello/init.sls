@@ -1,5 +1,2 @@
-/tmp/lempparit:
-  pkg.installed:
-    - cowsay
-    - tree
-    - micro
+/tmp/hellonoora:
+  file.managed
